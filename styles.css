@@ -1,0 +1,59 @@
+
+/* Estilos CSS para el diseño del anuncio */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(109, 15, 15);
+  }
+  
+  h1 {
+    color: #d6cdcd;
+  }
+  p {
+    color: #d6cdcd;
+  }
+  
+  .container {
+    margin: 20px auto; /* Centra el anuncio horizontalmente */
+
+  }
+  
+  .logo {
+    margin-top: 20px;
+  }
+  
+  .logo img {
+    width: 100px; /* Ajusta el tamaño del logo según tu preferencia */
+  }
+  
+  .main-image {
+    margin-top: 30px;
+  }
+  
+  .sub-images {
+    margin-top: 20px;
+  }
+  
+  .sub-image {
+    display: inline-block;
+    width: 200px; /* Tamaño deseado para cada imagen y su texto */
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .sub-image img {
+    width: 100%; /* Ajusta el tamaño de la imagen al ancho del contenedor */
+  }
+  
+  .footer {
+    margin-top: 30px;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+  }
+  
+  .social {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  
